@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pistol</folder>
+	<filename>pistol-130.png</filename>
+	<path>C:\Users\Asus\Work\python\Weapon\Dataset\Images\Pistol\pistol-130.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>173</ymin>
+			<xmax>229</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

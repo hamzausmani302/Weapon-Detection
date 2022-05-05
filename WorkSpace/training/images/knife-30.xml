@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>knife-30.png</filename>
+	<path>C:\Users\Asus\Work\python\Weapon\Dataset\Images\Knife\train\knife-30.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>129</ymin>
+			<xmax>325</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

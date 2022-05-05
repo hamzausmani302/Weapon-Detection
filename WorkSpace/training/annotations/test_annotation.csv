@@ -1,0 +1,11 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Knife\train\knife-130.png,352,640,knife,30,55,304,417
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Knife\train\knife-140.png,352,640,knife,113,197,313,561
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Knife\train\knife-190.png,352,640,knife,117,35,305,356
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Knife\train\knife-240.png,352,640,knife,5,134,206,470
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Knife\train\knife-250.png,352,640,knife,7,247,277,404
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Pistol\pistol-215.png,352,640,handgun,76,223,197,315
+C:\Users\Asus\Work\COMPUTER_VISION_WEAPON_DETECTION\WorkSpace\training\images\pistol-260.png,352,640,handgun,1,149,175,349
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Pistol\pistol-5.png,352,640,handgun,85,237,330,414
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Pistol\pistol-70.png,352,640,handgun,78,71,345,565
+C:\Users\Asus\Work\python\Weapon\Dataset\Images\Pistol\pistol-75.png,352,640,handgun,97,75,265,305
